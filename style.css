@@ -70,6 +70,7 @@ button, .cta-container {
 
 .navbar {
     justify-content: space-between;
+    padding-top: 24px;
 }
 
 .logo {
@@ -78,6 +79,8 @@ button, .cta-container {
 
 .links {
     list-style: none;
+    align-items: center;
+    gap: 16px;
 }
 
 .item {
@@ -91,7 +94,8 @@ a {
 /* HERO */
 
 .hero {
-
+    padding: 96px 0;
+    gap: 152px;
 }
 
 /* HERO PANEL */
@@ -119,6 +123,7 @@ a {
     display: block;
     width: 500px;
     height: auto;
+    border-radius: 4px;
 }
 
 /*~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
@@ -138,10 +143,11 @@ a {
 .info-heading {
     font-size: 36px;
     font-weight: 900;
+    padding-top: 48px;
 }
 
 .info-images {
-    padding: 48px 512px;
+    padding: 48px 512px 96px;
     justify-content: center;
     gap: 10%;
 }
@@ -176,7 +182,7 @@ a {
 /* TESTIMONIAL */
 .testimony {
     background-color: #E5E7EB;
-    padding: 48px 512px;
+    padding: 128px 512px;
     gap: 24px;
 }
 
@@ -194,17 +200,18 @@ a {
 /* CALL TO ACTION */
 .cta {
     justify-content: center;
-    padding: 48px 256px;
+    padding: 128px 256px;
 }
 
 .cta-container {
-    padding: 48px 256px;
+    padding: 96px 256px;
     gap: 256px;
     border-radius: 12px;
+    align-items: center;
 }
 
 .cta-info {
-    
+    line-height: 1.5;
 }
 
 .cta-heading {
