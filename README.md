@@ -1,6 +1,8 @@
 # project-landing-page
 CSS project creating a web-page based on a specific design  
 
+NOTE: The hero text is mostly made-up and not a true representation of Japan. In fact, I have only a little knowledge of it and anything I mentioned there (yet).  
+
 What I assume I'll learn/practice:  
 - flexbox
 - using CSS selectors / rules
@@ -13,7 +15,10 @@ What I plan to do:
 - google if needed  
 
 What I achieved/added:  
-- work in progress  
+- googled  
+- learned about using icons, hover effects, positioning, images  
+- realised it's a lot of work to gather content  
+- learned it's better to plan and remove, than to not plan and clutter the code  
 
 Credits:  
 - hero image: Evan Harrey, https://pixabay.com/users/evan_harrey-15167173/  
