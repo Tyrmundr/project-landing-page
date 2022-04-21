@@ -67,11 +67,16 @@ button, .cta-container {
 
 .navbar {
     justify-content: space-between;
-    padding-top: 24px;
+    padding-top: 12px;
 }
 
 .logo {
     font-size: 24px;
+    
+}
+
+.logo-img {
+    filter: invert(96%) sepia(54%) saturate(176%) hue-rotate(321deg) brightness(105%) contrast(97%)
 }
 
 .links {
@@ -151,7 +156,11 @@ a {
     height: 200px;
     overflow: hidden;
     border-radius: 24px;
-    border: 5px solid #3882F6;
+    border: 5px solid #1F2937;
+}
+
+.img-items {
+    gap: 24px;
 }
 
 .info-img {
@@ -165,6 +174,10 @@ a {
     transform: scale(1.3);
 }
 
+.img-text {
+    font-size: 18px;
+}
+
 /* TESTIMONIAL */
 .testimony {
     background-color: #E5E7EB;
@@ -176,6 +189,7 @@ a {
     font-size: 36px;
     font-style: italic;
     font-weight: 300;
+    letter-spacing: 1px;
 }
 
 .testimony-author {
@@ -220,4 +234,5 @@ a {
 
 #footer {
     text-align: center;
+    padding: 36px 0;
 }
