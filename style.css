@@ -1,0 +1,153 @@
+*, *::after, *::before {
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Roboto', sans-serif;
+}
+
+body {
+
+}
+/*~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
+/*~~~ SHARED RULES ~~~*/
+/*~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
+
+/*~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
+/*~~~ HEADER SECTION ~~~*/
+/*~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
+#header {
+
+}
+
+/* NAVBAR */
+
+.navbar {
+
+}
+
+.logo {
+
+}
+
+.links {
+
+}
+
+.item {
+
+}
+
+a {
+
+}
+
+/* HERO */
+
+.hero {
+
+}
+
+/* HERO PANEL */
+
+.hero-panel {
+
+}
+
+.hero-title {
+
+}
+
+.hero-text {
+
+}
+
+.hero-btn {
+
+}
+
+/* HERO IMAGE */
+
+.hero-figure {
+
+}
+
+.hero-img {
+
+}
+
+/*~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
+/*~~~ CONTENT SECTION ~~~*/
+/*~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
+
+#main {
+
+}
+
+/* INFORMATION */
+.info {
+
+}
+
+.info-heading {
+
+}
+
+.info-images {
+
+}
+
+.info-img {
+
+}
+
+.img-text {
+
+}
+
+/* TESTIMONIAL */
+.testimony {
+
+}
+
+.testimony-quote {
+
+}
+
+.testimony-author {
+
+}
+
+/* CALL TO ACTION */
+.cta {
+
+}
+
+.cta-container {
+
+}
+
+.cta-info {
+
+}
+
+.cta-heading {
+
+}
+
+.cta-text {
+
+}
+
+.cta-btn {
+
+}
+
+/*~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
+/*~~~ FOOTER SECTION ~~~*/
+/*~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
+
+#footer {
+
+}
+
+.copyright {
+    
+}
