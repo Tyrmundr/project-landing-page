@@ -1,14 +1,40 @@
 *, *::after, *::before {
     font-family: 'Dancing Script', cursive;
     font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
 }
 
 body {
-
+    
 }
+
 /*~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
 /*~~~ SHARED RULES ~~~*/
 /*~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
+#header, #main, #footer {
+    /*padding: 0 15%;*/
+}
+
+#header, #footer {
+    background-color: #1F2937;
+}
+
+.logo, .hero-title, .hero-img, .cta, button, footer {
+    color: #F9FAF8;
+}
+
+a, .hero-text {
+    color: #E5E7EB;
+}
+
+button, .cta-container {
+    background-color: #3882F6;
+}
+
+.info-heading, .img-text, .testimony {
+    color: #1F2937;
+}
 
 /*~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
 /*~~~ HEADER SECTION ~~~*/
@@ -36,7 +62,7 @@ body {
 }
 
 a {
-
+    text-decoration: none;
 }
 
 /* HERO */
@@ -104,7 +130,7 @@ a {
 
 /* TESTIMONIAL */
 .testimony {
-
+    background-color: #E5E7EB;
 }
 
 .testimony-quote {
@@ -149,5 +175,5 @@ a {
 }
 
 .copyright {
-    
+
 }
